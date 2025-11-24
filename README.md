@@ -31,6 +31,7 @@ PostoShelw/
 ├── assets/           # Ícones, imagens e arquivos de mídia
 ├── database/         # Banco de dados ou arquivos de registros
 └── README.md         # Este arquivo
+└── imgs.md           # Mídia armazenada
 ```
 
 ---
