@@ -1,0 +1,4 @@
+# .gitattributes
+# Ignora arquivos HTML na análise de linguagens do GitHub
+*.html linguist-detectable=false
+*.htm linguist-detectable=false
