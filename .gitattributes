@@ -1,4 +1,12 @@
 # .gitattributes
-# Ignora arquivos HTML na análise de linguagens do GitHub
+# Ignorar arquivos que não são Python na análise de linguagens do GitHub
 *.html linguist-detectable=false
 *.htm linguist-detectable=false
+*.tex linguist-detectable=false
+*.md linguist-detectable=false
+*.txt linguist-detectable=false
+*.json linguist-detectable=false
+*.ico linguist-detectable=false
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
+*.jpeg linguist-detectable=false
