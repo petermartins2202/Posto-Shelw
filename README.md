@@ -71,5 +71,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## 📌 Contato
 
-Pedro Faria Martins - pedrofaria@example.com  
-LinkedIn: [linkedin.com/in/pedrofaria](https://linkedin.com/in/pedrofaria)
+Pedro Faria Martins - pedrofariamartins243@gmail.com
