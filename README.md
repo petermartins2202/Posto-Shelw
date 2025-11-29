@@ -19,7 +19,7 @@ Projeto voltado para gestão e monitoramento de um posto de combustível, facili
 - **Python** - Linguagem principal  
 - **CustomTkinter** - Interface gráfica  
 - **Pillow (PIL)** - Manipulação de imagens e ícones  
-- **SQLite** ou **Arquivos TXT** - Armazenamento de dados  
+- **Arquivos TXT** - Armazenamento de dados  
 
 ---
 
@@ -28,10 +28,9 @@ Projeto voltado para gestão e monitoramento de um posto de combustível, facili
 ```
 PostoShelw/
 ├── main.py           # Arquivo principal
-├── assets/           # Ícones, imagens e arquivos de mídia
-├── database/         # Banco de dados ou arquivos de registros
+├── imgs/             # Ícones, imagens e arquivos de mídia
+├── relatorio.txt     # Banco de dados ou arquivos de registros
 └── README.md         # Este arquivo
-└── imgs.md           # Mídia armazenada
 ```
 
 ---
